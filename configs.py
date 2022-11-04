@@ -15,7 +15,7 @@ class Config(object):
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL"),( None)
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
     
-🤖 My Name: <a href='https://t.me/Official_Movies_Group'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/MR_Search_Bot'>MR Search bot</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
@@ -23,10 +23,10 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/Am_RoBots'>ᎯℕUℛᎯᎶ</a></b>
+👨‍💻 Created By: <a href='https://t.me/MROTTTamilOffl'>MROTTTamilOffl</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/Am_RoBots'>ᎯℕUℛᎯᎶ</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/MR_X_MIRROR'>𝙰𝚗𝚘𝚗𝚢𝚖𝚘𝚞𝚜</a>
     
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
@@ -39,7 +39,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search!🔍 What You Want?😜
 
-<a>Made With ❤ By @Am_RoBots</a></b>
+<a>Made With ❤ By @MROTTTamilOffl</a></b>
 """
 
 
@@ -51,6 +51,6 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search!🔍 What You Want?😜
 
-<a>Made With ❤ By @Am_RoBots</a></b>
+<a>Made With ❤ By @MROTTTamilOffl</a></b>
 """
     

@@ -1,5 +1,5 @@
 {
-    "name": "This is Inline Search Bot by @Am_RoBots",
+    "name": "This is Inline Search Bot by @MROTTTamilOffl",
     "logo": "https://telegra.ph/file/3e9fb6ecc88a98a374c59.jpg",
     "description": "This is Inline Channel Messages Search Bot by @Am_RoBots",
     "keywords": [
@@ -9,9 +9,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/8769ANURAG",
-    "website": "https://t.me/MOVIES_ZILAA",
-    "success_url": "https://t.me/sources_cods",
+    "repository": "https://github.com/RAFIQ-CLOUDZ/MR-SEARCH-BOT-V2",
+    "website": "https://t.me/MROTTTamilOffl",
+    "success_url": "https://github.com/RAFIQ-CLOUDZ/MR-SEARCH-BOT-V2",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @USERS_RO_BOT"
